@@ -49,7 +49,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ereignisschmiede - Lounge"
+                 "value":"es-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ereignisschmiede - Konferenzraum"
+                 "value":"es-konfi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ereignisschmiede - Kaminzimmer"
+                 "value":"es-kaminzimmer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ereignisschmiede - Wohnzimmer"
+                 "value":"es-wohnzimmer"
                 }],
          "type":"tilelayer",
          "visible":true,
